@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
 import Slide from 'react-reveal/Slide';
-
-import UiButton from '../UI/Button';
+import UiButton from '../UI/button';
 
 class Discount extends Component {
     constructor(props){

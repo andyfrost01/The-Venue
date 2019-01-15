@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Zoom from 'react-reveal/Zoom';
 
-import UiButton from '../UI/Button';
+import UiButton from '../UI/button';
 
 class Pricing extends Component {
     constructor(props){
