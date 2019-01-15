@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Element } from 'react-scroll';
-import Header from './components/header_footer/header.js';
+import Header from './components/header_footer/header';
 import Featured from './components/featured'
 import VenueInfo from './components/venue_info'
 import Hightlights from './components/hightlights';
